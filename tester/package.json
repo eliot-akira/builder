@@ -1,0 +1,18 @@
+{
+  "name": "tester",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "tt": "run"
+  },
+  "scripts": {
+    "start": "./run"
+  },
+  "dependencies": {
+    "glob": "^7.1.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
